@@ -20,6 +20,10 @@ The **Driver Fatigue Detection Model** is an AI-powered system designed to detec
 - **Libraries:** OpenCV, TensorFlow/Keras, NumPy, Matplotlib
 - **Hardware:** HD camera, GPU support for TensorFlow (for real-time performance).
 
+### License
+This project is licensed under the [MIT License](LICENSE).  
+You are free to use, modify, and distribute this project under the terms of the license.
+
 ## 🌟 Installation
 1. Clone the repository:
    ```bash
